@@ -1,3 +1,1 @@
-hello
-pushing to git
-edit this to check in local
+deleting all
