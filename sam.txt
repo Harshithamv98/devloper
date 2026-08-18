@@ -1,4 +1,5 @@
-readding
-hello evening
-how are you all
-hope all are fine
+<<<<<<< HEAD
+git branch conept
+=======
+hello
+>>>>>>> parent of e4787ee (pushing to github)
